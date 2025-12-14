@@ -54,5 +54,3 @@ Built using **Django (Backend)** and **React (Frontend)**, the platform provides
 
 ---
 
-## 📂 Project Structure
-
