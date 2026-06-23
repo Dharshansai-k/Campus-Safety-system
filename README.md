@@ -2,7 +2,7 @@
 
 A modern full-stack web application designed to improve **campus safety**, simplify **incident reporting**, and strengthen communication between students and campus authorities.
 
-Built using **React.js** for the frontend and **Django** for the backend, the platform provides a secure and user-friendly experience for reporting and managing campus incidents.
+Built using **React.js** for the frontend and **Django REST Framework** for the backend, the platform provides a secure and user-friendly experience for reporting and managing campus incidents.
 
 ---
 
